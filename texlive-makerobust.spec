@@ -1,6 +1,6 @@
 Name:		texlive-makerobust
 Version:	52811
-Release:	1
+Release:	2
 Summary:	Making a macro robust (legacy package)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/makerobust
