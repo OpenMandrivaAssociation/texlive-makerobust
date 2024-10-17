@@ -3,7 +3,7 @@ Version:	52811
 Release:	2
 Summary:	Making a macro robust (legacy package)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/makerobust
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/makerobust
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/makerobust.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/makerobust.doc.r%{version}.tar.xz
